@@ -1,7 +1,5 @@
 # -------------------------
 
-# Author: Doom & Oji Wolf
-# Github : https://github.com/nicolashss/TradingBOT
 # Website : https://xlux.xyz/
 
 # -------------------------
